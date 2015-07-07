@@ -3,6 +3,7 @@
 ## Copyright 2015-2015, tobiashochguertel.de
 #
 # @author Tobias, Hochguertel <tobias.hochguertel@googlemail.com>
+# @version: 0.1.0
 #
 ## Copyright 2005-2008, Google, Inc.
 # ShoreStation Dock Quote generator
