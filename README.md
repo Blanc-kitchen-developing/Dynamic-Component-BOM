@@ -13,6 +13,12 @@ By default the script will create an HTML report, but it will create a csv by ju
 | .md            | Markdown Document with BOM list as table |
 |                |                                          |
 
+
+| Item | Description | Quantity |
+|------|-------------|----------|
+|      |             |          |
+
+
 ## Sources
 
 - [JonD is the Author of original source-code: [Plugin] Dynamic Component BOM](http://sketchucation.com/forums/viewtopic.php?t=24925)
